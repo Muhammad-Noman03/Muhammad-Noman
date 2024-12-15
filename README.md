@@ -39,7 +39,7 @@ Welcome to my GitHub profile! I'm a passionate **Frontend Developer** with a kna
 ## 📫 Contact Me
 
 - **Email:** nomireigns@gmail.com
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/muhammad-noman-363a19275?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk1kjHJG%2BQIqxAUvXvWA8%2FQ%3D%3D)
+- **LinkedIn:** [Muhammad Noman](https://www.linkedin.com/in/muhammad-noman-363a19275?lipi=urn%3Ali%3Apage%3Ad_flagship3_profile_view_base_contact_details%3Bk1kjHJG%2BQIqxAUvXvWA8%2FQ%3D%3D)
 
 ---
 
